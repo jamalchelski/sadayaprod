@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93b8b26e.css",
+    "main.js": "/static/js/main.c8e71a83.js",
+    "static/js/787.07264ea1.chunk.js": "/static/js/787.07264ea1.chunk.js",
+    "static/media/logo-sadaya.png": "/static/media/logo-sadaya.b5a892cd1db6ea34cf5e.png",
+    "static/media/hp2.png": "/static/media/hp2.8733d62d3ca09f632529.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.2c5e8913a1703198d4f5.png",
+    "static/media/telegram.png": "/static/media/telegram.94b04cb23a6a07fccce3.png",
+    "static/media/imgply.png": "/static/media/imgply.5c80f8b3d5785929fae8.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.93b8b26e.css.map": "/static/css/main.93b8b26e.css.map",
+    "main.c8e71a83.js.map": "/static/js/main.c8e71a83.js.map",
+    "787.07264ea1.chunk.js.map": "/static/js/787.07264ea1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93b8b26e.css",
+    "static/js/main.c8e71a83.js"
+  ]
+}
